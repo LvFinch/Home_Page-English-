@@ -1,9 +1,9 @@
 # Home_Page-English-
 
-**:construction:Still Under Construction:construction:**
+**:construction:Still Under Construction:construction:
 
-[点击进入中文页面]:www.baidu.com
+<a href="https://lvfinch.github.io/Home_Page-Chinese-/" target="_blank">点击访问中文页面</a>
 
 Name: Yan Tingwei
 
-School: Central South University of Forestry and Technology
+School: [Central South University of Forestry and Technology](http://english.csuft.edu.cn/)
